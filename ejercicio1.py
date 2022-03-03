@@ -5,7 +5,9 @@ cota_sup=len(lista_palabra)
 numero_medio=(cota_sup)// 2
 def dicotomia(numero_medio):
   lista_dicotomia.append(lista_palabra.pop(numero_medio))
-  dicotomia(numero_medio-1)
+  if numero_medio > 0:
+    dicotomia(numero_medio-1)
+  if numero_medio == 0 and len(lista_palabra) > 0:
+    dicotomia(numero_medio)
 dicotomia(numero_medio)
 print(f"La lista final es: {lista_dicotomia}")
-    
