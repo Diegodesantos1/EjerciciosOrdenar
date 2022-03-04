@@ -1,12 +1,15 @@
 import random
-lista_tareas= []
+lista_tareas = []
 def crear_tareas():
-  if len(lista_tareas) < 10:
-    i = random.randint(1,100)
-    j = random.randint(1,100)
-    tarea =  (i,j)
-    lista_tareas.append(tarea)
-    crear_tareas()
+  if len(lista_tareas) < 5:
+    i = random.randint(1,10)
+    j = random.randint(1,10)
+    if i >= j:
+      crear_tareas()
+    else:
+      tarea = (i,j)
+      lista_tareas.append(tarea)
+      crear_tareas()
   else:
     return lista_tareas
 crear_tareas()
