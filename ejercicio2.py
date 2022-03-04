@@ -11,4 +11,8 @@ def crear_tareas():
     return lista_tareas
 crear_tareas()
 print(lista_tareas)
-  
+
+def ordenar_tareas():
+  lista_tareas.sort()
+  print(lista_tareas)
+ordenar_tareas()
