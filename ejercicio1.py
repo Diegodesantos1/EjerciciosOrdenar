@@ -6,15 +6,15 @@ lista2 = []
 listafinal = []
 if eleccion == 2:
   lista_numero=[]
-  def crear_lista(numero):
+  def crear_lista():
     lista_numero.sort()
     if len(lista_numero) < 20:
       numero=random.randint(0,100)
       lista_numero.append(numero)
-      crear_lista(numero)
+      crear_lista()
     else:
-      dicotomia()
-  
+      return lista_numero
+  crear_lista()
   print(f"La lista inicial es: {lista_numero}")
   cota_sup=len(lista_numero)
   numero_medio=(cota_sup)// 2
