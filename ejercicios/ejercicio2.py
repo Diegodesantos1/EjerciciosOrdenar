@@ -31,6 +31,7 @@ def nombrar_tareas():
     diccionario[tarea_escrita] = tarea_numero
     nombrar_tareas()
   else:
+    print(diccionario)
     lista_tareas_ordenada=diccionario.keys()
     print(f"Las tareas son en orden de prioridad: {lista_tareas_ordenada}")
 nombrar_tareas()
