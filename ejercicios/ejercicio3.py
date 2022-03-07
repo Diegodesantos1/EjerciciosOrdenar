@@ -15,7 +15,7 @@ def crear_segmentos(posicion_numero_max):
   if lista_numero[posicion_numero_max] > lista_numero[posicion_numero_max + 1]:
     for i in range (2): 
       lista_segmento.append(lista_numero.pop(posicion_numero_max))
-
+    lista_segmento.append("//")
     print(lista_segmento)
     if posicion_numero_max < 1 + len(lista_numero):
       crear_segmentos(posicion_numero_max)
