@@ -14,6 +14,7 @@ Este es el link del [Repositorio](https://github.com/Diegodesantos1/EjerciciosOr
 
 Aquí su [Milestone](https://github.com/Diegodesantos1/EjerciciosOrdenar/milestone/1?closed=1)
 
+Flowchart en formato xml [Flowchart](https://github.com/Diegodesantos1/EjerciciosOrdenar/blob/main/flowcharts/Flowchart1.drawio)
 El código empleado para resolverlo es el siguiente:
 
 
