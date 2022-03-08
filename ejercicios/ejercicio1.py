@@ -3,10 +3,15 @@ lista1=[]
 lista2 = []
 listafinal = []
 lista_numero=[]
+print("Qué longitud quieres que tenga la lista?")
+longitud_lista=int(input())
+print("Establece el intervalo inferior")
+inf=int(input())
+print("Establece el intervalo superior")
+sup=int(input())
 def crear_lista():
-  lista_numero.sort()
-  if len(lista_numero) < 20:
-    numero=random.randint(0,100)
+  if len(lista_numero) < longitud_lista:
+    numero=random.randint(inf,sup)
     lista_numero.append(numero)
     crear_lista()
   else:
