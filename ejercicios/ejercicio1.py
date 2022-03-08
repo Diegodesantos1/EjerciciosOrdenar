@@ -3,7 +3,7 @@ lista1=[]
 lista2 = []
 listafinal = []
 lista_numero=[]
-print("Qué longitud quieres que tenga la lista?")
+print("¿Qué longitud quieres que tenga la lista?")
 longitud_lista=int(input())
 print("Establece el intervalo inferior")
 inf=int(input())
