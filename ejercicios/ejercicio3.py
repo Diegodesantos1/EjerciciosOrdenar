@@ -31,4 +31,6 @@ def crear_segmentos():
     else:
       break
 crear_segmentos()
-print(f"la lista con segmentos es {lista_segmento}")
+num_segmento=lista_segmento.count("//")
+num_segmento= num_segmento + 1
+print(f"la lista final es {lista_segmento} y tiene {num_segmento} segmentos")
