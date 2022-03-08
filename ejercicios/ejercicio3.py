@@ -24,10 +24,10 @@ def crear_segmentos():
   lista_segmento.append(num)
   while len(lista_numero) != 0:
     n=0
-    if lista_segmento[len(lista_segmento)-1] > lista_numero[n]:
+    if lista_segmento[len(lista_segmento)-1] >= lista_numero[n]:
       numero=lista_numero.pop(n)
       lista_segmento.append(numero)
-    elif lista_segmento[len(lista_segmento)-1] < lista_numero[n]:
+    elif lista_segmento[len(lista_segmento)-1] <= lista_numero[n]:
       lista_segmento.append("//")
       numero=lista_numero.pop(n)
       lista_segmento.append(numero)
