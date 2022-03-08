@@ -1,5 +1,4 @@
 import random
-
 lista_tareas = []
 def crear_tareas():
   if len(lista_tareas) < 10:
