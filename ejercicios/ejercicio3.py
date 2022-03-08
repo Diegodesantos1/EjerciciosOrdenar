@@ -1,9 +1,15 @@
 import random
 lista_numero=[]
 lista_segmento = []
+print("Qué longitud quieres que tenga la lista?")
+longitud_lista=int(input())
+print("Establece el intervalo inferior")
+inf=int(input())
+print("Establece el intervalo superior")
+sup=int(input())
 def crear_lista():
-  if len(lista_numero) < 20:
-    numero=random.randint(0,100)
+  if len(lista_numero) < longitud_lista:
+    numero=random.randint(inf,sup)
     lista_numero.append(numero)
     crear_lista()
   else:
@@ -13,7 +19,7 @@ print(f"La lista inicial es: {lista_numero}")
 def crear_segmentos():
   num=lista_numero.pop(0)
   lista_segmento.append(num)
-  while len(lista_numero)-2:
+  while len(lista_numero) != 0:
     n=0
     if lista_segmento[len(lista_segmento)-1] > lista_numero[n]:
       numero=lista_numero.pop(n)
