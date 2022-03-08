@@ -28,13 +28,13 @@ def crear_segmentos():
       numero=lista_numero.pop(n)
       lista_segmento.append(numero)
     elif lista_segmento[len(lista_segmento)-1] <= lista_numero[n]:
-      lista_segmento.append("//")
+      lista_segmento.append("||")
       numero=lista_numero.pop(n)
       lista_segmento.append(numero)
     else:
       break
 crear_segmentos()
 
-num_segmento=lista_segmento.count("//")
+num_segmento=lista_segmento.count("||")
 num_segmento= num_segmento + 1
 print(f"la lista final es {lista_segmento} y tiene {num_segmento} segmentos")
