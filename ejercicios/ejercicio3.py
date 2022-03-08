@@ -7,6 +7,7 @@ print("Establece el intervalo inferior")
 inf=int(input())
 print("Establece el intervalo superior")
 sup=int(input())
+
 def crear_lista():
   if len(lista_numero) < longitud_lista:
     numero=random.randint(inf,sup)
@@ -15,7 +16,9 @@ def crear_lista():
   else:
     return lista_numero
 crear_lista()
+
 print(f"La lista inicial es: {lista_numero}")
+
 def crear_segmentos():
   num=lista_numero.pop(0)
   lista_segmento.append(num)
@@ -31,6 +34,7 @@ def crear_segmentos():
     else:
       break
 crear_segmentos()
+
 num_segmento=lista_segmento.count("//")
 num_segmento= num_segmento + 1
 print(f"la lista final es {lista_segmento} y tiene {num_segmento} segmentos")

@@ -1,5 +1,6 @@
 import random
 lista_tareas = []
+
 def crear_tareas():
   if len(lista_tareas) < 10:
     i = random.randint(1,10)
@@ -22,6 +23,7 @@ ordenar_tareas()
 
 tareas =["Fregar", "Aspirar", "Poner la lavadora", "Hacer la comida", "Limpiar los baños", "Tender la ropa", "Limpiar el polvo","Recoger la habitación", "Ordenar las estanterías", "Sacar el lavavajillas"]
 diccionario = {}
+
 def nombrar_tareas():
   if len(tareas) != 0 or len(lista_tareas) != 0:
     numero_random = random.randint(0,len(tareas) - 1)
