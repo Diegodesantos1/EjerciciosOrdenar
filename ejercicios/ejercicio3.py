@@ -12,14 +12,12 @@ crear_lista()
 print(f"La lista inicial es: {lista_numero}")
 posicion_numero_max = lista_numero.index(max(lista_numero))
 def crear_segmentos(posicion_numero_max):
-  if lista_numero[posicion_numero_max] > lista_numero[posicion_numero_max + 1]:
-    for i in range (2): 
-      lista_segmento.append(lista_numero.pop(posicion_numero_max))
-    lista_segmento.append("//")
-    print(lista_segmento)
-    if posicion_numero_max < 1 + len(lista_numero):
-      crear_segmentos(posicion_numero_max)
-    else:
-      crear_segmentos(posicion_numero_max = 0)
-      return (lista_segmento)
+  lista_numero.append([0])
+  while len(lista_numero):
+    for n in range (len(lista_numero)- 1):
+      if lista_numero[n] > lista_numero[n+1]:
+        lista_numero.append(lista_numero[n])
+      else:
+        lista_numero.append("//}")
 crear_segmentos(posicion_numero_max)
+print(lista_numero)
