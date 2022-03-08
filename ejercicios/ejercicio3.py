@@ -11,17 +11,17 @@ def crear_lista():
 crear_lista()
 print(f"La lista inicial es: {lista_numero}")
 def crear_segmentos():
-  lista_segmento.append(lista_numero.pop(0))
-  while len(lista_numero) - 1:
-    n=1
-    if lista_numero[n-1] > lista_numero[n]:
+  num=lista_numero.pop(0)
+  lista_segmento.append(num)
+  while len(lista_numero)-2:
+    n=0
+    if lista_segmento[len(lista_segmento)-1] > lista_numero[n]:
       numero=lista_numero.pop(n)
       lista_segmento.append(numero)
-    elif lista_numero[n-1] < lista_numero[n]:
+    elif lista_segmento[len(lista_segmento)-1] < lista_numero[n]:
       lista_segmento.append("//")
       numero=lista_numero.pop(n)
       lista_segmento.append(numero)
-      lista_segmento.append("//")
     else:
       break
 crear_segmentos()
