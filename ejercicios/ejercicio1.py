@@ -22,7 +22,8 @@ if modo ==1:
   def ordenarlista_dicotomia():
     for i in range((lista_numero)):
       for j in range(i, len(lista)):
-        if tabla[i] > tablar[r]:
+        if lista[i] > lista[r]:
+          lista
         
 
 
