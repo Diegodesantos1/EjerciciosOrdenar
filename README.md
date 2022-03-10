@@ -12,11 +12,14 @@ Este es el link del [Repositorio](https://github.com/Diegodesantos1/EjerciciosOr
 
 ## Ejercicio 1: Ordenación por inserción dicotómica
 
+*En este ejercicio he creado una lista aleatoria en función de la longitud e intervalo asignado, una vez creada la lista se aplica a dicotomía y se printea la lista final*
+
 Aquí su [Milestone](https://github.com/Diegodesantos1/EjerciciosOrdenar/milestone/1?closed=1)
 
-Flowchart en formato xml [Flowchart](https://github.com/Diegodesantos1/EjerciciosOrdenar/blob/main/flowcharts/Flowchart1.drawio)
+Flowchart en formato xml [Flowchart](https://github.com/Diegodesantos1/EjerciciosOrdenar/blob/main/Flowcharts/Flow_Ejercicio1/Flowchart1.drawio)
+
 <center>
-	 <img src="https://github.com/Diegodesantos1/EjerciciosOrdenar/blob/main/flowcharts/Flowchart1.drawio.png" alt="Flowchart">
+	 <img src="https://github.com/Diegodesantos1/EjerciciosOrdenar/blob/main/Flowcharts/Flow_Ejercicio1/Flowchart1.drawio.png" alt="Flowchart">
 </center>
 
 El código empleado para resolverlo es el siguiente:
@@ -57,7 +60,15 @@ print(f"La lista final con la dicotomía es {listafinal}")
 
 ## Ejercicio 2: Una ordenación topológica
 
+*En este ejercicio, el algoritmo crea una lista de tareas aleatoria en función de "(i, j)" y la ordena, después le asigna aleatoriamente una tarea escrita como "Fregar" o "Barrer" y con esto crea un diccionario y una vez creado printea la solución en orden de prioridad de lass tareas*
+
 Aquí su [Milestone](https://github.com/Diegodesantos1/EjerciciosOrdenar/milestone/2?closed=1)
+
+Flowchart en formato xml [Flowchart](https://github.com/Diegodesantos1/EjerciciosOrdenar/blob/main/Flowcharts/Flow_Ejercicio2/Ejercicio2.drawio)
+
+<center>
+	 <img src="https://github.com/Diegodesantos1/EjerciciosOrdenar/blob/main/Flowcharts/Flow_Ejercicio2/Ejercicio2.png" alt="Flowchart">
+</center>
 
 El código empleado para resolverlo es el siguiente:
 ```python
@@ -102,6 +113,12 @@ nombrar_tareas()
 ## Ejercicio 3: Completar las especificaciones
 
 Aquí su [Milestone](https://github.com/Diegodesantos1/EjerciciosOrdenar/milestone/3?closed=1)
+
+Flowchart en formato xml [Flowchart](https://github.com/Diegodesantos1/EjerciciosOrdenar/blob/main/Flowcharts/Flow_Ejercicio3/Ejercicio3.drawio)
+
+<center>
+	 <img src="https://github.com/Diegodesantos1/EjerciciosOrdenar/blob/main/Flowcharts/Flow_Ejercicio3/Ejercicio3.drawio.png" alt="Flowchart">
+</center>
 
 El código empleado para resolverlo es el siguiente:
 ```python
