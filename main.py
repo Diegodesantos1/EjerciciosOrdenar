@@ -9,5 +9,4 @@ def eleccion_ejercicio():
     else:
         eleccion_ejercicio()
 
-
 eleccion_ejercicio()
