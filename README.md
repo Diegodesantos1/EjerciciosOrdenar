@@ -23,6 +23,7 @@ Flowchart en formato xml [Flowchart](https://github.com/Diegodesantos1/Ejercicio
 </center>
 
 El código empleado para resolverlo es el siguiente:
+
 ```python
 import random
 lista1=[]
@@ -71,7 +72,9 @@ Flowchart en formato xml [Flowchart](https://github.com/Diegodesantos1/Ejercicio
 	<img src="https://github.com/Diegodesantos1/EjerciciosOrdenar/blob/main/Flowcharts/Flow_Ejercicio2/Ejercicio2.png" alt="Flowchart">
 </center>
 
+
 El código empleado para resolverlo es el siguiente:
+
 ```python
 import random
 lista_tareas = []
@@ -124,6 +127,7 @@ Flowchart en formato xml [Flowchart](https://github.com/Diegodesantos1/Ejercicio
 </center>
 
 El código empleado para resolverlo es el siguiente:
+
 ```python
 import random
 lista_numero=[]
