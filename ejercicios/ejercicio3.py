@@ -17,7 +17,7 @@ def crear_lista():
     return lista_numero
 crear_lista()
 
-print(f"La lista inicial es:\n {lista_numero}")
+print(f"La lista inicial es:\n {lista_numero}\n")
 
 def crear_segmentos():
   num=lista_numero.pop(0)
