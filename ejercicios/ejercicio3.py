@@ -17,7 +17,7 @@ def crear_lista():
     return lista_numero
 crear_lista()
 
-print(f"La lista inicial es: {lista_numero}")
+print(f"La lista inicial es:\n {lista_numero}")
 
 def crear_segmentos():
   num=lista_numero.pop(0)
@@ -37,4 +37,4 @@ crear_segmentos()
 
 num_segmento=lista_segmento.count("||")
 num_segmento= num_segmento + 1
-print(f"la lista final es {lista_segmento} y tiene {num_segmento} segmentos")
+print(f"la lista final es:\n {lista_segmento} \n Tiene {num_segmento} segmentos")
