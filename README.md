@@ -65,11 +65,7 @@ Aquí su [Milestone](https://github.com/Diegodesantos1/EjerciciosOrdenar/milesto
 
 [Flowchart](https://github.com/Diegodesantos1/EjerciciosOrdenar/blob/main/Flowcharts/Flow_Ejercicio2/Ejercicio2.drawio) en formato XML
 
-
-<center>
-	<img src="https://github.com/Diegodesantos1/EjerciciosOrdenar/blob/main/Flowcharts/Flow_Ejercicio2/Ejercicio2.png" alt="Flowchart">
-</center>
-
+![image](https://user-images.githubusercontent.com/91721855/157729841-980f4413-2f9e-4801-8c45-6c0476cbf913.png)
 
 El código empleado para resolverlo es el siguiente:
 
@@ -120,9 +116,8 @@ Aquí su [Milestone](https://github.com/Diegodesantos1/EjerciciosOrdenar/milesto
 
 [Flowchart](https://github.com/Diegodesantos1/EjerciciosOrdenar/blob/main/Flowcharts/Flow_Ejercicio3/Ejercicio3.drawio) en formato XML
 
-<center>
-	 <img src="https://github.com/Diegodesantos1/EjerciciosOrdenar/blob/main/Flowcharts/Flow_Ejercicio3/Ejercicio3.drawio.png" alt="Flowchart">
-</center>
+![image](https://user-images.githubusercontent.com/91721855/157729906-44188617-ca88-4b17-b7e5-dbcc94e25e6a.png)
+
 
 El código empleado para resolverlo es el siguiente:
 
