@@ -1,6 +1,6 @@
 import random
 while True:
-  print("Si quieres ordenar la lista por dicotomía pulse 1, si quieres que te de la lista dicotomizada, pulse 2")
+  print("Seleccione el modo:\n 1: Solo una lista\n 2: Varias Listas")
   modo=input()
   if modo ==1:
     lista_numero= []
