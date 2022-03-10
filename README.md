@@ -1,6 +1,6 @@
 <h1 align="center">Ejercicios de Ordenar</h1>
 
-*He usado la herramienta de Replit para poder programar online y así resolver los ejercicios propuestos aplicando el contenido de esta lección, que es la ordenación.*
+*He usado la herramienta de Replit para poder programar online y así resolver los ejercicios propuestos aplicando el contenido de esta lección, que es ordenar, los ejercicios han sido realizados bajo mi interpretación de los enunciados*
 
 ***
 
