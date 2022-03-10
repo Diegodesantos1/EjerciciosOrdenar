@@ -66,8 +66,9 @@ Aquí su [Milestone](https://github.com/Diegodesantos1/EjerciciosOrdenar/milesto
 
 Flowchart en formato xml [Flowchart](https://github.com/Diegodesantos1/EjerciciosOrdenar/blob/main/Flowcharts/Flow_Ejercicio2/Ejercicio2.drawio)
 
+
 <center>
-	 <img src="https://github.com/Diegodesantos1/EjerciciosOrdenar/blob/main/Flowcharts/Flow_Ejercicio2/Ejercicio2.png" alt="Flowchart">
+	<img src="https://github.com/Diegodesantos1/EjerciciosOrdenar/blob/main/Flowcharts/Flow_Ejercicio2/Ejercicio2.png" alt="Flowchart">
 </center>
 
 El código empleado para resolverlo es el siguiente:
@@ -111,6 +112,8 @@ nombrar_tareas()
 ```
 
 ## Ejercicio 3: Completar las especificaciones
+
+*En este ejercicio, el algoritmo crea una lista aleatoria en función de la longitud y el intervalo, y con esto crea segmentos de números decrecientes, y cuando uno es superior al siguiente coloca un separador "||"*
 
 Aquí su [Milestone](https://github.com/Diegodesantos1/EjerciciosOrdenar/milestone/3?closed=1)
 
