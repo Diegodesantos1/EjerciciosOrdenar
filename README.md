@@ -1,6 +1,6 @@
 <h1 align="center">Ejercicios de Ordenar</h1>
 
-*He usado la herramienta de Replit para poder programar online y así resolver los ejercicios propuestos aplicando el contenido de esta lección, que es la ordenación.*
+*He usado la herramienta de Replit para poder programar online y así resolver los ejercicios propuestos aplicando el contenido de esta lección, que es ordenar, los ejercicios han sido realizados bajo mi interpretación de los enunciados*
 
 ***
 
@@ -16,11 +16,9 @@ Este es el link del [Repositorio](https://github.com/Diegodesantos1/EjerciciosOr
 
 Aquí su [Milestone](https://github.com/Diegodesantos1/EjerciciosOrdenar/milestone/1?closed=1)
 
-Flowchart en formato xml [Flowchart](https://github.com/Diegodesantos1/EjerciciosOrdenar/blob/main/Flowcharts/Flow_Ejercicio1/Flowchart1.drawio)
+[Flowchart](https://github.com/Diegodesantos1/EjerciciosOrdenar/blob/main/Flowcharts/Flow_Ejercicio1/Flowchart_1.drawio) en formato XML
 
-<center>
-	 <img src="https://github.com/Diegodesantos1/EjerciciosOrdenar/blob/main/Flowcharts/Flow_Ejercicio1/Flowchart1.drawio.png" alt="Flowchart">
-</center>
+![image](https://user-images.githubusercontent.com/91721855/157729166-f422e175-406b-45db-800e-5d4ba5856ea6.png)
 
 El código empleado para resolverlo es el siguiente:
 
@@ -65,13 +63,9 @@ print(f"La lista final con la dicotomía es {listafinal}")
 
 Aquí su [Milestone](https://github.com/Diegodesantos1/EjerciciosOrdenar/milestone/2?closed=1)
 
-Flowchart en formato xml [Flowchart](https://github.com/Diegodesantos1/EjerciciosOrdenar/blob/main/Flowcharts/Flow_Ejercicio2/Ejercicio2.drawio)
+[Flowchart](https://github.com/Diegodesantos1/EjerciciosOrdenar/blob/main/Flowcharts/Flow_Ejercicio2/Ejercicio2.drawio) en formato XML
 
-
-<center>
-	<img src="https://github.com/Diegodesantos1/EjerciciosOrdenar/blob/main/Flowcharts/Flow_Ejercicio2/Ejercicio2.png" alt="Flowchart">
-</center>
-
+![image](https://user-images.githubusercontent.com/91721855/157729841-980f4413-2f9e-4801-8c45-6c0476cbf913.png)
 
 El código empleado para resolverlo es el siguiente:
 
@@ -120,11 +114,10 @@ nombrar_tareas()
 
 Aquí su [Milestone](https://github.com/Diegodesantos1/EjerciciosOrdenar/milestone/3?closed=1)
 
-Flowchart en formato xml [Flowchart](https://github.com/Diegodesantos1/EjerciciosOrdenar/blob/main/Flowcharts/Flow_Ejercicio3/Ejercicio3.drawio)
+[Flowchart](https://github.com/Diegodesantos1/EjerciciosOrdenar/blob/main/Flowcharts/Flow_Ejercicio3/Ejercicio3.drawio) en formato XML
 
-<center>
-	 <img src="https://github.com/Diegodesantos1/EjerciciosOrdenar/blob/main/Flowcharts/Flow_Ejercicio3/Ejercicio3.drawio.png" alt="Flowchart">
-</center>
+![image](https://user-images.githubusercontent.com/91721855/157729906-44188617-ca88-4b17-b7e5-dbcc94e25e6a.png)
+
 
 El código empleado para resolverlo es el siguiente:
 
