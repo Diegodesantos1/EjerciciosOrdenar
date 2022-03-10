@@ -16,11 +16,9 @@ Este es el link del [Repositorio](https://github.com/Diegodesantos1/EjerciciosOr
 
 Aquí su [Milestone](https://github.com/Diegodesantos1/EjerciciosOrdenar/milestone/1?closed=1)
 
-Flowchart en formato xml [Flowchart](https://github.com/Diegodesantos1/EjerciciosOrdenar/blob/main/Flowcharts/Flow_Ejercicio1/Flowchart1.drawio)
+[Flowchart](https://github.com/Diegodesantos1/EjerciciosOrdenar/blob/main/Flowcharts/Flow_Ejercicio1/Flowchart_1.drawio) en formato XML
 
-<center>
-	 <img src="https://github.com/Diegodesantos1/EjerciciosOrdenar/blob/main/Flowcharts/Flow_Ejercicio1/Flowchart1.drawio.png" alt="Flowchart">
-</center>
+![image](https://user-images.githubusercontent.com/91721855/157729166-f422e175-406b-45db-800e-5d4ba5856ea6.png)
 
 El código empleado para resolverlo es el siguiente:
 
@@ -65,7 +63,7 @@ print(f"La lista final con la dicotomía es {listafinal}")
 
 Aquí su [Milestone](https://github.com/Diegodesantos1/EjerciciosOrdenar/milestone/2?closed=1)
 
-Flowchart en formato xml [Flowchart](https://github.com/Diegodesantos1/EjerciciosOrdenar/blob/main/Flowcharts/Flow_Ejercicio2/Ejercicio2.drawio)
+[Flowchart](https://github.com/Diegodesantos1/EjerciciosOrdenar/blob/main/Flowcharts/Flow_Ejercicio2/Ejercicio2.drawio) en formato XML
 
 
 <center>
@@ -120,7 +118,7 @@ nombrar_tareas()
 
 Aquí su [Milestone](https://github.com/Diegodesantos1/EjerciciosOrdenar/milestone/3?closed=1)
 
-Flowchart en formato xml [Flowchart](https://github.com/Diegodesantos1/EjerciciosOrdenar/blob/main/Flowcharts/Flow_Ejercicio3/Ejercicio3.drawio)
+[Flowchart](https://github.com/Diegodesantos1/EjerciciosOrdenar/blob/main/Flowcharts/Flow_Ejercicio3/Ejercicio3.drawio) en formato XML
 
 <center>
 	 <img src="https://github.com/Diegodesantos1/EjerciciosOrdenar/blob/main/Flowcharts/Flow_Ejercicio3/Ejercicio3.drawio.png" alt="Flowchart">
