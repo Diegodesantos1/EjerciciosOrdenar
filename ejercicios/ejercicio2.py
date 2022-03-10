@@ -14,11 +14,11 @@ def crear_tareas():
   else:
     return lista_tareas
 crear_tareas()
-print(lista_tareas)
+print(f"{lista_tareas}\n")
 
 def ordenar_tareas():
   lista_tareas.sort()
-  print(lista_tareas)
+  print(f"{lista_tareas}\n")
 ordenar_tareas()
 
 tareas =["Fregar", "Aspirar", "Poner la lavadora", "Hacer la comida", "Limpiar los baños", "Tender la ropa", "Limpiar el polvo","Recoger la habitación", "Ordenar las estanterías", "Sacar el lavavajillas"]
@@ -32,7 +32,8 @@ def nombrar_tareas():
     diccionario[tarea_escrita] = tarea_numero
     nombrar_tareas()
   else:
-    print(diccionario)
+    
+    print(f"{diccionario}\n")
     lista_tareas_ordenada=diccionario.keys()
     print(f"Las tareas son en orden de prioridad: {lista_tareas_ordenada}")
 nombrar_tareas()
